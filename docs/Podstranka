@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Matematické vzorce</title>
+    <link rel="odkaz_na_matematicke_vzorce.html">   
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>Vzorec 1</th>
+            <th>Vzorec 2</th>
+            <th>Vzorec 3</th>
+            <th>Vzorec 4</th>
+            <th>Vzorec 5</th>
+        </tr>
+        <tr>
+            <td>Matematický vzorec 1</td>
+            <td>Matematický vzorec 2</td>
+            <td>Matematický vzorec 3</td>
+            <td>Matematický vzorec 4</td>
+            <td>Matematický vzorec 5</td>
+        </tr>
+    </table>
+</body>
+</html>
